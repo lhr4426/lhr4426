@@ -18,7 +18,7 @@
   <a href="mailto:20211924@edu.hanbat.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20211924@edu.hanbat.ac.kr"/></a>
 </p>
 
-![Hyerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhr4426&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhr4426&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Hyerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhr4426&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhr4426&layout=nord)](https://github.com/anuraghazra/github-readme-stats)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=100&section=footer)
 
