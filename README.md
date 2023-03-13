@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=100&section=header)
-<h1> 😎 Hi! I'm Hyerim 😎
-<h2>✍ Junior Majoring in Computer Engineering  ✍</h3>
+<h1> 😎 Hi! I'm Hyerim 😎 </h1>
+ 
+<h2>✍ Junior Majoring in Computer Engineering  ✍</h2>
 
 <h3> 📕 My Experiences 📕 </h3>
  <p>
