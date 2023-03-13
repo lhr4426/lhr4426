@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&section=header&text=😎%20Hi!%20I'm%20Hyerim%20😎&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&section=header&text=😎%20Hi!%20I'm%20Hyerim%20😎&fontAlignY=40)
 
 ### 🪪 Experiences 🪪 
 |Period|Name|Detail|
