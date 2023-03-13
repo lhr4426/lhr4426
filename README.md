@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&section=header&text=😎%20Hi!%20I'm%20Hyerim%20😎&fontAlignY=40)
 
+### 👍 Introduce 👍
+한밭대학교에서 컴퓨터공학을 전공하고 있습니다!  
+컴퓨터와 관련된 다양한 분야(시뮬레이션, 서버 등등)에 관심이 있습니다!  
+
 ### 🪪 Experiences 🪪 
 |Period|Name|Detail|
 |---|---|---|
