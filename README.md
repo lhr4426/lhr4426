@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=100&section=header)
 <br>
 
-<p style="font-weight:bold; font-size:200%;"> 😎 Hi! I'm Hyerim 😎</p><br>
-<p style="font-weight:bold; font-size:200%;"> ✍ HBNU Computer Engineering  ✍</p>
+<span style="font-weight:bold; font-size:200%;"> 😎 Hi! I'm Hyerim 😎</span><br>
+<span style="font-weight:bold; font-size:200%;"> ✍ HBNU Computer Engineering  ✍</span>
 <br>
 
 ### 🪪 Experiences 🪪 
