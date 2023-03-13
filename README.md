@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=200&section=header&text=Hi!&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Lee%20Hyerim's%20Profile&descAlign=50&descAlignY=50)
-## About My 
 <h3 align="center">✍ Junior Majoring in Computer Engineering  ✍</h3><br>
+## About My 
 <h3 align="center">💻 Tech 💻</h3>
 <br>
 <p align="center"> 
