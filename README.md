@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=slice&color=50bcdf&height=100&section=header)
 ### 😎 Hi! I'm Hyerim 😎  
 ### ✍ HBNU Computer Engineering  ✍ 
   
@@ -55,5 +55,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhr4426&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=slice&color=50bcdf&height=100&section=footer)
 
