@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=200&section=header&text=Hi!&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Lee%20Hyerim's%20Profile&descAlign=50&descAlignY=50)
+## About My 
 <h3 align="center">✍ Junior Majoring in Computer Engineering  ✍</h3><br>
 <h3 align="center">💻 Tech 💻</h3>
 <br>
@@ -18,6 +19,8 @@
   <a href="mailto:20211924@edu.hanbat.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20211924@edu.hanbat.ac.kr"/></a>
 </p>
 
+
+## GitHub Stats
 ![Hyerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhr4426&show_icons=true&theme=nord)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhr4426&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=100&section=footer)
