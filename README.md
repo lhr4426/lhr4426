@@ -2,7 +2,7 @@
 
 ### 👍 Introduce 👍
 한밭대학교에서 컴퓨터공학을 전공하고 있습니다!  
-컴퓨터와 관련된 다양한 분야(시뮬레이션, 서버 등등)에 관심이 있습니다!  
+컴퓨터와 관련된 다양한 분야(게임, 시뮬레이션, 서버 등등)에 관심이 있습니다!  
 
 ### 🪪 Experiences 🪪 
 |Period|Name|Detail|
@@ -50,6 +50,7 @@
 ### 📞 Contect 📞
 <p> 
   <a href="mailto:20211924@edu.hanbat.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20211924@edu.hanbat.ac.kr"/></a>
+  <a href="https://velog.io/@lhr4426"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@lhr4426"/></a>
 </p>
 <br>
 
