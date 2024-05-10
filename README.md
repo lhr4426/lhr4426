@@ -55,7 +55,7 @@
 
 ### 📞 Contect 📞
 <p> 
-  <a href="mailto:20211924@edu.hanbat.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20211924@edu.hanbat.ac.kr"/></a>
+  <a href="mailto:lhr4426@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lhr4426@naver.com"/></a>
   <a href="https://velog.io/@lhr4426"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </p>
 <br>
