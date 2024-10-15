@@ -16,8 +16,9 @@
 |---|---|---|
 |2022 Summer|한국전기전자학회 학술대회|챗봇을 활용한 메타버스 서비스와 현실 서비스 간 연동 방법|
 |2022 Fall|한국시뮬레이션학회 학술대회|이산사건시스템 형식론 기반 기상 정보 수집 시스템|
-|2023 Summer|한국전자전기학회 학슬대회|이산사건시스템 형식론을 활용한 에이전트의 구조 및 실험 환경|
+|2023 Summer|한국전자전기학회 학술대회|이산사건시스템 형식론을 활용한 에이전트의 구조 및 실험 환경|
 |2024 Spring|한국시뮬레이션학회 공동학술대회|메타버스 환경에서의 사용자 이용 내역 데이터 활용방안 제안|
+|2024 Summer|한국전기전자학회 학술대회|사용자 생성 콘텐츠 기반의 메타버스 환경을 위한 서버-클라이언트 구조 제안|
 <br>
 
 ### 👬 Project 👬
@@ -27,6 +28,7 @@
 |~ 2022.11.19|창의설계 온라인 경진대회|개발도상국 영세 농가의 소득증대를 위한 재고관리|동상|
 |2023.03.07 ~ 2023.03.17|DSC 모빌리티 리빙랩 아이디어 공모전|공유 모빌리티 충돌사고 모니터링|장려상|
 |2023.12 ~ 2024.11|컴퓨터공학과 캡스톤디자인|Next Reality팀 팀장||
+|2024.09 ~ |DSC 공유대학 캡스톤디자인|모션웨이브팀||
 <br>
 
 ### ✏️ Study ✏️
@@ -44,6 +46,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal-000000?style=flat-square&logo=Unreal&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Java-C70D2C?style=flat-square&logo=Java&logoColor=white"/>
   <img src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
@@ -55,7 +58,6 @@
 ### 📞 Contect 📞
 <p> 
   <a href="mailto:lhr4426@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lhr4426@naver.com"/></a>
-  <a href="https://velog.io/@lhr4426"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </p>
 <br>
 
