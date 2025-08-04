@@ -70,11 +70,5 @@ DSC 공유대학 모빌리티SW/AI융합학과 학사 (2023.03 ~ 2025.02)
   <a href="mailto:hyerimlee4426@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyerimlee4426@gmail.com"/></a>
 </p>
 <br>
-
-## 📊 GitHub Stats 📊
-![Hyerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhr4426&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhr4426&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
 
