@@ -67,7 +67,7 @@ DSC 공유대학 모빌리티SW/AI융합학과 학사 (2023.03 ~ 2025.02)
 
 ### 📞 Contect 📞
 <p> 
-  <a href="mailto:lhr4426@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lhr4426@naver.com"/></a>
+  <a href="mailto:hyerimlee4426@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyerimlee4426@gmail.com"/></a>
 </p>
 <br>
 
