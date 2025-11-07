@@ -35,7 +35,6 @@ DSC 공유대학 모빌리티SW/AI융합학과 학사 (2023.03 ~ 2025.02)
 |2024.09 ~ 2024.12|DSC 공유대학 캡스톤디자인|[MotionWave 클라이언트 담당](https://github.com/MotionWave-Capstone/MotionWave)|우수상|
 |2023.12 ~ 2024.11|컴퓨터공학과 캡스톤디자인|[Next Reality팀 팀장](https://github.com/HBNU-SWUNIV/come-capstone24-nextreality)||
 |2024.04.01 ~ 2024.11.30|한밭대학교 산학협력프로젝트|[원격제어 시뮬레이션을 통한 행동 보조 지원시스템 개발](https://github.com/lhr4426/RoutingSim)||
-|2022.05.16 ~ 2022.11.10|2022 Sungoo Women Empowerment Global(SWEG)|메타버스 콘텐츠 제작||
 <br>
 
 ### ✏️ Study ✏️
