@@ -1,19 +1,31 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&section=header&text=😎%20Hi!%20I'm%20Hyerim%20😎&fontAlignY=40)
 
 ### 👍 Introduce 👍
-한밭대학교 컴퓨터공학과 학사 (2021.03 ~ 2025.02)  
-DSC 공유대학 모빌리티SW/AI융합학과 학사 (2023.03 ~ 2025.02)  
-  
-게임 개발자로써 활동하고자 공부하고 있습니다!
+게임 서버 개발자로써 활동하고자 공부하고 있습니다!
 
 <a href="https://lhr4426.pages.dev">Tech Blog</a>
+
+### 🙋‍♀️ Career 🙋‍♀️
+|Period|Name|Detail|
+|---|---|---|
+|2026.01 ~ Now|(주)에스브이인포|IBU팀 사원|
+|2023.01 ~ 2023.02|(주)사미텍|데이터 지원팀 학생인턴|
+<br>
+
+### 🧑‍🎓 Academic 🧑‍🎓
+|Period|Name|Detail|
+|---|---|---|
+|2021.03 ~ 2025.02|한밭대학교 컴퓨터공학과|학사|
+|2023.03 ~ 2025.02|DSC 공유대학 모빌리티SW/AI융합학과|학사|
+<br>
+
 
 ### ✨ Experiences ✨  
 |Period|Name|Detail|
 |---|---|---|
 |2025.06 ~ 2025.11|스파르타 내일배움캠프|유니티 게임 개발 11기|
 |2022 ~ 2025.02|SysAI Lab|연구분야 : 시뮬레이션, 게임|
-|2023.01 ~ 2023.02|Samitech|데이터 지원팀 학생인턴|
+
 <br>
 
 ### 📕 Papers 📕 
