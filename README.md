@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&section=header&text=😎%20Hi!%20I'm%20Hyerim%20😎&fontAlignY=40)
 
 ### 👍 Introduce 👍
-게임 서버 개발자로써 활동하고자 공부하고 있습니다!
+서버/네트워크 엔지니어로써 일하고 있습니다.
 
 <a href="https://lhr4426.pages.dev">Tech Blog</a>
 
